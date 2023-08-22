@@ -529,6 +529,7 @@ const experience = {
     //       color: "#0879bf",
     //     },
     //   ],
+    //jo
     // },
     {
       title: "Internships",
